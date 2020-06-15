@@ -1,0 +1,10 @@
+<?php
+$x = "Hello";
+$y = " World!";
+
+echo $x . $y; // Hello World!
+
+$z = " How are you?";
+
+echo $x . $y . $z; // Hello World! How are you?
+?>
